@@ -33,3 +33,13 @@ A single offer has:
 -Having an option to approve/reject submissions from the administrative panel - SOMEWHAT DONE, BUT THERE IS MORE TO BE REQUIRED
 -Having an option to search by a keyword for jobs - DONE
 -Having a paginated listing page, being able to go to page 2, page 3, etc
+
+
+//Short information about the files
+From index.php you will access the homepage where all current job offers are listed.
+There you can choose a job offer and it will take you to a single page about it.
+The connection to the database is located in the 'config' folder as db_connect.php and is set as own file for simplicity.
+From index.php you can access three other pages: 'Edits' - edits.php, 'Home' - index.php and 'Search' - search.php; this navigation is also present in each page footer.
+The sql file for the database is located in the 'database' folder as joblister.sql.
+From the 'Edits' page you can add new job offers and delete current ones.
+
