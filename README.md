@@ -1,11 +1,11 @@
 # DevriX-Job-board
 
 1. Introduction and an overview
-This is a repository for a simple job board project listing website similar to jobs.bg
+>This is a repository for a simple job board project listing website similar to jobs.bg
 The project has a landing page listing all jobs, simple admin area for editing jobs submissions.
 
 2. Requirements
-For this project, I used PHP and created a simple database for having the job offers using MySQL.
+>For this project, I used PHP and created a simple database for having the job offers using MySQL.
 This simple PHP project has the following functionality:
   2.1. A simple Job board page listing all job offers
   2.2. A submission form providing the option to submit a new job offer
