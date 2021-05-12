@@ -42,7 +42,7 @@ CREATE TABLE `jobs` (
 INSERT INTO `jobs` (`id`, `title`, `job_description`, `company`, `salary`) VALUES
 (1, 'Front End Developer', 'Our band of superheroes are looking for a self-driven, highly organised individual who will join the team in creating our most important products.\r\n\r\nLocation is unimportant, as long as you are available, enthusiastic, committed, passionate, and know your stuff.\r\n\r\nFor this role, we need a superhero who will take on the challenges of working in one of the leading WordPress companies, enhancing our website, products, and services, backed by a quality team of pros.\r\n\r\nResponsibilities\r\nYou’ll be part of a development team working on our flagship products. It’s going to be epic!', 'Company Awesome Ltd. ', '3000 - 4000'),
 (2, 'Back End Developer', 'Job Description', 'Company Awesome Ltd. 2021', '3000 - 4000'),
-(13, 'PHP Internship', 'This project would be a simple job board project listing website similar to jobs.bg, but a simplified version, of course. The project would have a landing page listing all jobs, simple admin area for editing jobs submissions.', 'Devrix', '1500 - 2000');
+(13, 'PHP Internship', 'This project would be a simple job board project listing website similar to jobs.bg, but a simplified version, of course. The project would have a landing page listing all jobs, simple admin area for editing jobs submissions.', 'Tehc company', '1000');
 
 --
 -- Indexes for dumped tables
