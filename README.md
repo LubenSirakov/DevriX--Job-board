@@ -1,4 +1,4 @@
-# DevriX-Job-board
+# Job-board
 
 1. Introduction and an overview
 >This is a repository for a simple job board project listing website similar to jobs.bg
